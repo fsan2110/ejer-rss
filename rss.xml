@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Feed de fsan2110</title>
+		<link>https://github.com/fsan2110/ejer-rss</link>
+		<description>Esto es un ejercicio sobre RSS</description>
+		<copyright>Por fsan2110</copyright>
+
+		<item>
+			<title>Introducción al feed de fsan</title>
+			<link>https://github.com/fsan2110/ejer-rss</link>
+			<description>Los siguientes items son noticias de diferentes períodicos eletrónicos convertidas en artículos de RSS.</description>
+			<author>fsan2110b</author>
+			<pubDate>Tue, 13 May 2025</pubDate>
+		</item>
+
+		<item>
+			<title>Firefox Source Code Now Hosted On GitHub</title>
+			<link>https://www.phoronix.com/news/Firefox-On-GitHub</link>
+			<description>The Mozilla Firefox source code is now officially available on GitHub as they work to transition from their hg.mozilla.org servers...</description>
+			<pubDate>Tue, 13 May 2025</pubDate>
+			<author>Michael Larabel</author>
+		</item>
+
+		<item>
+			<title>Linux Linux Torvalds goes back to a mechanical keyboard after making too many typos</title>
+			<link>https://go.theregister.com/feed/www.theregister.com/2025/05/13/linux_6_15_rc6_keyboards/</link>
+			<description>Linux 6.15 is coming along nicely too, unless autocorrect messes things upLinux kernel project boss Linus Torvalds has re-joined the ranks of full-size mechanical keyboard aficionados...</description>
+			<pubDate>Tue, 13 May 2025</pubDate>
+			<author>Simon Sharwood</author>
+		</item>
+
+		<item>
+			<title>Progress Report: Linux 6.14</title>
+			<link>https://asahilinux.org/2025/03/progress-report-6-14/</link>
+			<description>As March draws to a close and Linux 6.14 nears release, now is a good time to provide you all with our first major progress update since taking the lead on the project. Going forward, we hope to keep these updates in sync with upstream kernel releases. We feel that this is a natural cadence given the focus on upstreaming, with enough time between posts for noteworthy downstream changes to accumulate.</description>
+			<pubDate>Tue, 13 May 2025</pubDate>
+			<author>James Calligeros</author>
+		</item>
+
+		<item>
+			<title>Team Fortress 2 Update Released</title>
+			<link>https://www.teamfortress.com/post.php?id=244323</link>
+			<description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:
+			Fixed HUD scope animation exploit (GitHub fix from mastercoms),
+			Fixed case where the door model for Match Status HUD wasn't initialized before setting the submodel (GitHub fix from rabscootle),
+			Fixed money not automatically being collected in Mann vs. Machine respawn rooms (GitHub fix from mastercoms),
+			Fixed stuck Mann vs. Machine bots sometimes causing spawn softlocks (GitHub fix from Mentrillum),
+			Fixed Mann vs. Machine ammo canteens not affecting energy weapons (GitHub fix from Mentrillum),
+			Fixed 'Shell Extension' achiemevent not working for energy weapons (GitHub fix from Mentrillum),
+			Fixed not being able to deploy parachute after landing and becoming airborne without jump button (GitHub fix from FlaminSarge),
+			Fixed some heap allocated KeyValues leaks (GitHub fix from Dmitry Tsarevich),
+			Relaxed in-game chat restrictions for certain accounts.</description>
+			<pubDate>Tue, 13 May 2025</pubDate>
+			<author>TF2 Team</author>
+		</item>		
+	</channel>
+</rss>
